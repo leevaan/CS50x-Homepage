@@ -1,0 +1,9 @@
+.proj-sec-one{
+    max-width: 1920px;
+ 
+    padding: 0 clamp(1.875rem, -20.658rem + 36.3436vw, 22.5rem)
+             0 clamp(1.875rem, -20.658rem + 36.3436vw, 22.5rem);
+}
+.card:hover{
+    border-color: rgba(205, 162, 116, 0.5);
+}

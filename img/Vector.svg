@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 13" width="15" height="12">
+	<title>Vector-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #cda274;stroke-linecap: square;stroke-linejoin: round;stroke-width: 2 }
+	</style>
+	<path id="Vector" class="s0" d="m0 6.4l13.6-0.1"/>
+	<path id="Vector" class="s0" d="m8.6-0.1l6.4 6.5-6.6 6.6"/>
+</svg>
